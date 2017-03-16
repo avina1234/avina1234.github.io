@@ -1,0 +1,77 @@
+body {
+  background-color: black !important;
+}
+.fashion {
+  font-size: 80px;
+  font-family: "Brush Script MT";
+  color: white;
+  font-style: italic;
+}
+#nav {
+  background: black;
+  width: 100%;
+  color: white;
+}
+.nav a:hover {
+  background-color: black !important;
+}
+.nav a:focus {
+  background-color: black !important;
+}
+li {
+    padding: 0px 70px 0px 70px;
+}
+.menustyle {
+  color: white;
+}
+input[type='submit']
+ {
+   background: rgb(167,0,2) !important;
+   border: none;
+   height: 40px;
+   width: 100px;
+   border-radius: 5px;
+ }
+.container {
+  text-align: center;
+  color: white;
+  font-family: Eras Light ITC;
+  font-size: 18px;
+}
+.navigation {
+  list-style: none;
+}
+.round_corners {
+  border-radius:5px;
+}
+h3 {
+  text-align: center;
+}
+#articles {
+  text-align: left;
+  font-size: 14px;
+}
+.icon {
+  color: white;
+}
+span {
+  color: rgb(167,0,2);
+}
+.images {
+  padding-left: 20px;
+}
+.title {
+  text-align: left;
+}
+#news {
+  border-left: 1px solid gray;
+}
+#anchor {
+  text-decoration: none;
+}
+li a:focus{
+  color: rgb(167,0,2);
+}
+li a:hover{
+  color: rgb(167,0,2);
+}
